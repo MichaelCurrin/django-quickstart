@@ -1,4 +1,5 @@
 # Django Quickstart
+> Quickstart template for a new Django project
 
 
 See [Tutorial](https://docs.djangoproject.com/en/4.0/intro/tutorial01/) for Django 4 in the docs.

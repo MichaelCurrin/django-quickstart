@@ -9,6 +9,13 @@
 [![Made with SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html "Go to SQLite homepage")
 
 
+## Preview
+
+<div align="center">
+    <img src="/sample.png" alt="Sample screenshot" width="400">
+</div>
+
+
 ## Template notes
 
 <div align="center">
